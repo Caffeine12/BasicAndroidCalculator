@@ -6,6 +6,6 @@
 3. Maximum eight digits can be taken as input and use in the mathematical operation.
 ![Maximum Digits](https://github.com/Caffeine12/BasicAndroidCalculator/blob/master/BasicCalculatorSceenshots/Screenshot_1536644323.png "Sample image")
 
-4. Can not divide by zero
+4. Cannot divide by zero
 
 ![Error](https://github.com/Caffeine12/BasicAndroidCalculator/blob/master/BasicCalculatorSceenshots/Screenshot_1536644209.png "Sample image")
